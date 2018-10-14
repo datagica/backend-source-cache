@@ -1,0 +1,15 @@
+{
+  "name": "@datagica/backend-source-cache",
+  "version": "0.0.0",
+  "description": "backend source cache",
+  "main": "./index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha --harmony --bail --require chai tests/*.js"
+  },
+  "author": "Julian Bilcke <julian.bilcke@datagica.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
